@@ -1,0 +1,14 @@
+.gitignore
+  h_bb77324e13b22c 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "86a98fd4f165e3e32147c80dda102d1dc9eaa6f2",
+  "prompts": {},
+  "humans": {
+    "h_bb77324e13b22c": {
+      "author": "David <david4david4david4@gmail.com>"
+    }
+  }
+}
