@@ -1,0 +1,14 @@
+NURTURE_LOG.md
+  h_bb77324e13b22c 9,11-12,14-22,28-30,33-34,40-41,43-44,46-47,51-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b5ab3cc9b1307693ec37bfecb859de010078346d",
+  "prompts": {},
+  "humans": {
+    "h_bb77324e13b22c": {
+      "author": "David <david4david4david4@gmail.com>"
+    }
+  }
+}
