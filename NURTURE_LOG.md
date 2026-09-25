@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #228 — 2026-09-26T00:05 IST (eval vs origin/main `7563d08` [own #227 log]; content-idle since `86a98fd` Sep 5 — 21d; revive-vs-consolidate standing; deploy target dark with the gre zone — NXDOMAIN day 26)
+**Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
+
+### State this cycle
+- No content motion: last substantive commit remains Sep 5 (`86a98fd`); log-only commits since. The gre zone is still NXDOMAIN (day 26, re-verified this cycle), so even green doc deploys are invisible.
+- **Revive-vs-consolidate decision still open (~7 cycles)**: the app repo's OpenAPI suite (`openapi-main.yaml` + companions, tracked on main) remains the de facto spec authority. Options: (a) archive + point docs at the app repo, (b) generated-docs home driven from the app's OpenAPI files (recommendation stands — the only variant that doesn't rot), (c) status-quo drift.
+- Parked Jun-5 restructure in the 2TB external copy still unaddressed — commit or discard.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Content-idle 21d; revive-vs-consolidate undecided — drift vs the app repo's OpenAPI suite grows weekly
+- 🟡 Deploy target dark with the gre zone (NXDOMAIN day 26)
+- 🟢 Parked Jun-5 restructure (2TB copy) — commit or discard
+
+*Dimension scores unchanged; next full re-score when content moves or the revive-vs-consolidate call lands.*
+
+
 ## Cycle #227 — 2026-09-25T20:05 IST (eval vs origin/main `b1bd938` [own #226 log]; content-idle since `86a98fd` Sep 5; revive-vs-consolidate standing; deploy target dark with the gre zone — NXDOMAIN day 25)
 **Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
 
