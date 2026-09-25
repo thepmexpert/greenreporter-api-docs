@@ -6,6 +6,18 @@
 
 ---
 
+## Cycle #225 — 2026-09-25T12:05 IST (eval vs origin/main `a8c9651` [own #224 log]; repo idle 22d content-wise since `86a98fd` Sep 5; *header-time artifact from #223/#224 corrected — clock never skewed*)
+**Market Readiness Score: 5.1** (hold — untouched; spec authority now lives upstream in the app repo)
+
+### State this cycle
+- ⚪ Repo unchanged content-wise since `86a98fd` (Sep 5); only nurture log commits since. Zero open PRs; no CI pipeline. greenreporter.eu NXDOMAIN ~day 24 (see app-repo log) — docs.greenreporter.eu unreachable regardless of this repo's state.
+- Standing question unchanged: **revive vs consolidate** (owner decision).
+
+### Next Sequential Implementation Target
+1. Owner decision: consolidate into the app repo's docs pipeline (recommended) or revive with CI (`mkdocs build --strict`) + auto-deploy
+2. If revived: fix the 404 root + README's aspirational claims
+3. Content accuracy pass against the live API (post-domain-restoration)
+
 ## Cycle #224 — 2026-09-25T12:35 IST (eval vs origin/main `fd7795d` [own #223 log; repo idle 21d since `86a98fd` Sep 5]; *headers GitHub-time-anchored from #224 — shell clock ~4.5h low*)
 **Market Readiness Score: 5.1** (hold — untouched; spec authority now lives upstream in the app repo)
 
