@@ -6,6 +6,19 @@
 
 ---
 
+## Cycle #223 — 2026-09-25T08:34 IST (eval vs origin/main `86a98fd` — repo idle 20d since Sep 5; log file had been stale at its #48 state, refreshed this cycle)
+**Market Readiness Score: 5.1** (hold — untouched; spec authority now lives upstream in the app repo)
+
+### State this cycle
+- ⚪ Repo untouched since `86a98fd` (Sep 5, gitignore chore). Main synced; zero open PRs; no CI pipeline.
+- Domain context: greenreporter.eu itself is NXDOMAIN (see app-repo log) — docs.greenreporter.eu is unreachable regardless of this repo's state.
+- Standing question unchanged: **revive vs consolidate** — the app repo tracks the OpenAPI suite + its own `docs.yml`; this MkDocs site lags and can drift.
+
+### Next Sequential Implementation Target
+1. Owner decision: consolidate into the app repo's docs pipeline (recommended) or revive with CI (`mkdocs build --strict`) + auto-deploy
+2. If revived: fix the 404 root + README's aspirational claims
+3. Content accuracy pass against the live API (post-domain-restoration)
+
 ## Market Readiness Score: 5.1/10 ➡️ (corrected from incorrect 6.5)
 
 > **Updated**: 2026-08-25 16:06 IST | Cycle #48 (5.1 held — repo untouched 79 days (1786fef, Jun 7). June's P0 git-auth blocker RESOLVED portfolio-wide (verified again this cycle). New verified facts: docs.greenreporter.eu root serves **404** (user-visible symptom of the no-auto-deploy gap); the main app repo now tracks the OpenAPI YAML suite AND runs its own `docs.yml` — the machine-readable spec June wanted exists upstream, shifting this repo's question to *revive vs consolidate*.)
