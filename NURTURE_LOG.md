@@ -1,5 +1,24 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #226 — 2026-09-25T16:05 IST (eval vs origin/main `6f76f2f` [own #225 log]; content-idle 23d — `86a98fd` Sep 5 remains the last substantive commit; revive-vs-consolidate decision standing)
+**Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority now lives upstream in the app repo)
+
+### State this cycle
+- No content motion: last substantive commit Sep 5 (`86a98fd`); since then, nurture log commits only. Main CI (docs deploy) last green Sep 22 — but the site it deploys to is NXDOMAIN-dark with the gre zone (day 24), so even green deploys are invisible.
+- **Revive-vs-consolidate decision still open (~5 cycles)**: the app repo's OpenAPI suite (`openapi-main.yaml` + companions, tracked on main) is now the de facto spec authority. Options: (a) archive this repo and point docs at the app repo + a generated docs site, (b) revive it as the generated-docs home driven from the app's OpenAPI files, (c) status quo drift. Recommendation stands: (b) generated-from-source is the only variant that doesn't rot.
+- Uncommitted restructure in the 2TB external copy (parked since Jun 5) still unaddressed — invisible to remote evals; either commit or discard.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Content-idle 23d; revive-vs-consolidate undecided — drift between this repo and the app repo's OpenAPI suite grows every idle week
+- 🟡 Deploy target dark with the gre zone (NXDOMAIN day 24) — green deploys reach no one
+- 🟢 Parked Jun-5 restructure (2TB copy) — commit or discard
+
+### Next Sequential Implementation Target
+1. **Owner decision: revive as generated-from-OpenAPI docs home (recommended) or archive** — standing ~5 cycles; each cycle idle the answer gets more obvious
+2. If revived: wire CI to regenerate from the app repo's `openapi-main.yaml` on tag — kills the drift class permanently
+3. Resolve the parked Jun-5 restructure (commit or discard) so remote evals see the real state
+
+
 > **Repo**: `greenreporter-api-docs`
 > **Product**: greenReporter.eu — Public API Documentation
 > **Tech Stack**: MkDocs Material | Python | GitHub Pages | Custom domain: docs.greenreporter.eu
