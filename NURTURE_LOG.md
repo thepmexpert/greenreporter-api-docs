@@ -1,5 +1,23 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #229 — 2026-09-26T04:06 IST (eval vs origin/main `41033ec` [own #228 log]; content-idle since `86a98fd` Sep 5 — 22d; revive-vs-consolidate standing ~8 cycles; deploy target dark with the gre zone — NXDOMAIN day 26)
+**Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
+
+### State this cycle
+- No content motion: last substantive commit remains Sep 5 (`86a98fd`); log-only commits since. The gre zone is still NXDOMAIN (day 26, re-verified 04:02), so even green doc deploys are invisible.
+- **Revive-vs-consolidate decision still open (~8 cycles)**: the app repo's OpenAPI suite (`openapi-main.yaml` + companions, tracked on main) remains the de facto spec authority. Options: (a) archive + point docs at the app repo, (b) generated-docs home driven from the app's OpenAPI files (recommendation stands — the only variant that doesn't rot), (c) status-quo drift.
+- Parked Jun-5 restructure in the 2TB external copy still unaddressed — commit or discard.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Content-idle 22d; revive-vs-consolidate undecided — drift vs the app repo's OpenAPI suite grows weekly
+
+### Next Sequential Implementation Target
+1. Owner decides revive-vs-consolidate — recommendation stands: generated-docs home driven from the app repo's OpenAPI files
+2. If consolidated: archive with a pointer README; if revived: wire the generator + redeploy on the restored gre zone
+3. Either way: fold into the post-renewal gre relaunch session so docs ship with the product's return
+
+
+
 ## Cycle #228 — 2026-09-26T00:05 IST (eval vs origin/main `7563d08` [own #227 log]; content-idle since `86a98fd` Sep 5 — 21d; revive-vs-consolidate standing; deploy target dark with the gre zone — NXDOMAIN day 26)
 **Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
 
