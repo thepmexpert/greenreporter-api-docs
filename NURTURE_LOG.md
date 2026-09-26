@@ -1,5 +1,24 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #232 — 2026-09-26T16:05 IST (eval vs origin/main `3b0905d` [own #231 log]; content-idle since `86a98fd` Sep 5 (~21d); revive-vs-consolidate standing ~11 cycles; upstream static since the #69 merge — zero gre motion since 09:50Z)
+**Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
+
+### State this cycle
+- No content motion: last substantive commit remains Sep 5 (`86a98fd`, chore-only); log-only commits since (~21d). The gre zone is still NXDOMAIN (day 26, re-verified) — even green doc deploys are invisible.
+- Zero upstream motion since the morning burst (#69 merged 09:08Z; #71 CR static since 09:50Z) — the post-#69 regeneration target is stable; the revive-vs-consolidate decision value keeps decaying (~11 cycles standing).
+- Billing block org-wide ~64h (probe #8 failed) — any revived CI here inherits the same gate.
+
+### Unmet Compliance/Feature Traps
+- 🟠 Content-idle ~21d; revive-vs-consolidate undecided — drift vs the app repo's OpenAPI suite + new taxonomy layer grows weekly
+- 🟡 docs.greenreporter.eu root 404; no `mkdocs build --strict` CI here
+
+### Next Sequential Implementation Target
+1. Owner decides revive-vs-consolidate — recommendation stands: generated-docs home driven from the app repo's OpenAPI files
+2. If consolidated: archive with a pointer README; if revived: regenerate against post-#69 main
+3. Either way: fold into the post-renewal gre relaunch session so docs ship with the product's return
+
+
+
 ## Cycle #231 — 2026-09-26T12:05 IST (eval vs origin/main `4be37a7` [own #230 log]; content-idle since `86a98fd` Sep 5 (~21d); revive-vs-consolidate standing ~10 cycles; upstream MOVED: gre #69 merged the esrs-2026-08-30 XBRL taxonomy into the app repo)
 **Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
 
