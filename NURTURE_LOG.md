@@ -1,5 +1,23 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #234 — 2026-09-27T00:05 IST (eval vs origin/main `830c23e` [own #233 log]; content-idle since `86a98fd` Sep 5 (~22d); revive-vs-consolidate standing ~13 cycles; upstream #71 loop ALIVE 20:51Z but main static — docs still behind the #69 XBRL registry)
+**Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
+
+### State this cycle
+- ⚪ Zero content motion ~22d; revive-vs-consolidate ask standing ~13 cycles (owner decision, unpolled). Uncommitted Jun-5 restructure parked in the 2TB working copy (found #81).
+- Fold-into-gre-relaunch remains the recommended path: 101domain renewal → zone restore → docs revive inside the relaunch sequence.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs uncommitted restructure (−1,174 lines) invisible to remote evals
+- 🟡 OpenAPI suite drift risk vs app (app shipped #69 XBRL taxonomy registry Sep 26; docs never updated)
+
+### Next Sequential Implementation Target
+1. Owner decides revive-vs-consolidate (13th ask) — recommendation: consolidate into the gre relaunch
+2. Post-#69 docs sync (XBRL taxonomy registry + 39-entry crosswalk) when the lane reopens
+3. Commit-or-discard the parked Jun-5 restructure
+
+
+
 ## Cycle #233 — 2026-09-26T20:05 IST (eval vs origin/main `5ec3f79` [own #232 log]; content-idle since `86a98fd` Sep 5 (~21d); revive-vs-consolidate standing ~12 cycles; upstream static since the #69 merge — zero gre motion since 09:50Z)
 **Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
 
