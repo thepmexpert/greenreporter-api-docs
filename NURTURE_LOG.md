@@ -1,5 +1,24 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #231 — 2026-09-26T12:05 IST (eval vs origin/main `4be37a7` [own #230 log]; content-idle since `86a98fd` Sep 5 (~21d); revive-vs-consolidate standing ~10 cycles; upstream MOVED: gre #69 merged the esrs-2026-08-30 XBRL taxonomy into the app repo)
+**Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
+
+### State this cycle
+- No content motion: last substantive commit remains Sep 5 (`86a98fd`, chore-only); log-only commits since (~21d). The gre zone is still NXDOMAIN (day 26) — even green doc deploys are invisible.
+- **Upstream context sharpened**: #69 MERGED 09:08Z puts the ESRS-2026-08-30 taxonomy registry + crosswalk in the app repo — the "generated-docs home from the app's OpenAPI files" revive option has fresh material; the consolidate option now chases a moving target. Decision value decays each idle week (~10 cycles standing).
+- Billing block now org-wide (gre public-repo immunity broke) — any revived CI here inherits the same gate.
+
+### Unmet Compliance/Feature Traps
+- 🟠 Content-idle ~21d; revive-vs-consolidate undecided — drift vs the app repo's OpenAPI suite + new taxonomy layer grows weekly
+- 🟡 docs.greenreporter.eu root 404; no `mkdocs build --strict` CI here
+
+### Next Sequential Implementation Target
+1. Owner decides revive-vs-consolidate — recommendation stands: generated-docs home driven from the app repo's OpenAPI files
+2. If consolidated: archive with a pointer README; if revived: regenerate against post-#69 main (the taxonomy surface changed today)
+3. Either way: fold into the post-renewal gre relaunch session so docs ship with the product's return
+
+
+
 ## Cycle #230 — 2026-09-26T08:05 IST (eval vs origin/main `d846444` [own #229 log]; content-idle since `86a98fd` Sep 5 — 22d; revive-vs-consolidate standing ~9 cycles; deploy target dark with the gre zone — NXDOMAIN day 26)
 **Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
 
