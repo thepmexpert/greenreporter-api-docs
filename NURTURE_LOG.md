@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #240 — 2026-09-28T00:05 IST (GitHub anchor 23:04Z Sep 27) (eval vs main `91dd5ad` [own #239 log]; content-idle ~23d — `86a98fd` Sep 5 still last content commit; no runs registered)
+**Market Readiness Score: 5.1** (hold — 19th revive-vs-consolidate ask; upstream vocabulary moved again under it)
+
+### State this cycle
+- ⚪ Content-idle ~23d; no open PRs; Actions runs list empty (no workflows firing).
+- 🟡 Upstream drift compounding: gre main now carries the GRE-035 taxonomy remap (#69) and #71's VSME→VS naming is pending — the docs describe a product whose vocabulary just changed.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs describe pre-#69/#71 vocabulary; uncommitted restructure parked since Jun 5
+- 🟢 Remote URL now thepmexpert (fixed #229)
+
+### Next Sequential Implementation Target
+1. **Decide: revive vs consolidate into gre main repo `/docs`** (19th ask — the decision has outlived the billing block that partly excused it)
+2. If revive: land the parked restructure + a VS-naming pass mirroring #71
+3. Re-point CI (`docs.yml`) at the chosen home; verify the deploy pipeline
+
 ## Cycle #239 — 2026-09-28T00:35 IST (GitHub anchor 19:02:49Z; shell clock ~4.5h low — shell reads Sep 27 20:05) (eval vs origin/main `cd6f359` [own #238 log]; content-idle since `86a98fd` Sep 5 (~23d); revive-vs-consolidate standing ~18 cycles (18th ask); upstream #71 static ~22.2h unmerged — docs still behind the #69 XBRL registry; billing greens holding ~10h)
 **Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
 
