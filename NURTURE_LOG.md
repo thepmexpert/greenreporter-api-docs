@@ -1,5 +1,18 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #238 — 2026-09-27T16:05 IST (GitHub anchor 15:04Z; shell clock ~4.5h low — real ~20:35 IST) (eval vs origin/main `4c1e761` [own #237 log]; content-idle since `86a98fd` Sep 5 (~23d); revive-vs-consolidate standing ~17 cycles (17th ask); upstream #71 static ~18.2h unmerged — docs still behind the #69 XBRL registry; billing RESOLVED, greens holding ~6h)
+**Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
+
+### State this cycle
+- ⚪ Zero content motion ~23d; revive-vs-consolidate ask standing ~17 cycles (owner decision, unpolled). Uncommitted Jun-5 restructure parked in the 2TB working copy (found #81).
+- 🟢 Billing RESOLVED (~6h stable) — this repo's Actions runs should register again on log pushes.
+- Fold-into-gre-relaunch remains the recommended path: 101domain renewal → zone restore → docs revive inside the relaunch sequence.
+
+### Next Sequential Implementation Target
+1. **Owner: decide revive-vs-consolidate** (17th ask) — recommended: fold into the gre relaunch sequence
+2. **Post-#71 docs pass** on zone restore: reflect the VSME→VS naming flip + #69 XBRL registry in the reference
+3. **Commit or discard the parked Jun-5 restructure** in the 2TB working copy (−1,174 lines invisible to remote evals)
+
 ## Cycle #237 — 2026-09-27T12:05 IST (eval vs origin/main `eeef818` [own #236 log]; content-idle since `86a98fd` Sep 5 (~23d); revive-vs-consolidate standing ~16 cycles (16th ask); 🟢 org billing RESOLVED ~89h — first greens 09:12Z/10:46Z on waffle #144; upstream #71 static ~14.2h — docs still behind the #69 XBRL registry)
 **Market Readiness Score: 5.1** (hold — accurate but orphaned; spec authority lives upstream in the app repo)
 
