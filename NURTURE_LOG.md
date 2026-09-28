@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #241 — 2026-09-28T08:35 IST (GitHub anchor 03:07Z Sep 28) (eval vs main `e7dbc0a` [own #240 log]; content-idle ~23d — `86a98fd` Sep 5 still last content commit; 20th revive-vs-consolidate ask)
+**Market Readiness Score: 5.1** (hold — 20th ask; the upstream vocabulary moved under it and stays moved)
+
+### State this cycle
+- ⚪ Content-idle ~23d; zero open PRs; no new Actions runs beyond the #240 log push.
+- 🟡 Upstream drift compounding: gre main carries the #69 taxonomy remap; #71 (VSME→VS naming) static ~30h unmerged — when it lands the reference flips vocabulary again. Fold-into-gre-relaunch stays the recommended path (101domain renewal → zone restore → docs revive; 9 Oct EFRAG×Commission VS event = T-11d beat).
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs describe pre-#69/#71 vocabulary; uncommitted restructure parked since Jun 5 (2TB working copy)
+- 🟢 Remote URL now thepmexpert (fixed #229)
+
+### Next Sequential Implementation Target
+1. **Owner: decide revive-vs-consolidate** (20th ask — recommended: fold into the gre relaunch sequence)
+2. If revive: land the parked restructure + a VS-naming pass mirroring #71
+3. Re-point `docs.yml` at the chosen home; verify the deploy pipeline
+
 ## Cycle #240 — 2026-09-28T00:05 IST (GitHub anchor 23:04Z Sep 27) (eval vs main `91dd5ad` [own #239 log]; content-idle ~23d — `86a98fd` Sep 5 still last content commit; no runs registered)
 **Market Readiness Score: 5.1** (hold — 19th revive-vs-consolidate ask; upstream vocabulary moved again under it)
 
