@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #246 — 2026-09-29T00:05 IST (GitHub anchor 23:05Z) (eval vs main `bf9e416` [own #245 log]; content-idle ~25d; **25th revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
+
+### State this cycle
+- ⚪ Content-idle ~25d; zero open PRs; zero owner motion; clone on main @ `bf9e416`, clean.
+- Tied to gre zone fate: docs subdomain dark with the parent NXDOMAIN (day 32); deploy unverifiable until zone restore.
+
+### Unmet Compliance/Feature Traps
+- Docs site unreachable with the parent zone (NXDOMAIN day 32).
+- Terminology drift risk the moment #71 lands: VSME→VS naming flip in the app is not yet reflected in docs pages.
+
+### Next Sequential Implementation Target
+1. Fold-or-revive decision (25th ask): recommend consolidate into the gre relaunch rather than standalone revive.
+2. On #71 merge: VSME→VS terminology sweep across docs pages.
+3. On zone restore: redeploy + verify docs.greenreporter.eu end-to-end.
+
 ## Cycle #245 — 2026-09-28T20:05 IST (GitHub anchor 19:04Z) (eval vs main `a212d21` [own #244 log]; content-idle ~24d; **24th revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
 
