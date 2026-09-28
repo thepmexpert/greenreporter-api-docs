@@ -1,5 +1,19 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #243 — 2026-09-28T12:05 IST (GitHub anchor 11:05Z) (eval vs main `a42e070` [own #242 log]; content-idle ~24d; **22nd revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
+
+### State this cycle
+- ⚪ Zero content motion ~24d (`86a98fd` Sep 5 still last content commit); zero open PRs; Actions runs not registered on log pushes (no workflows — standing). Upstream gre main static at `9138bb1` (~50h); #71 still unmerged.
+- 22nd ask delivered: gre domain dark (NXDOMAIN day 31, whois ACTIVE) + 9 Oct EFRAG×Commission VS event T-11d — consolidation into the relaunch sequence remains the only rational path; a standalone docs property has no audience while the apex 404s.
+
+### Next Sequential Implementation Target
+1. **Owner: decide revive-vs-consolidate** (22nd ask — recommended: fold into the gre relaunch sequence)
+2. If revive: land the parked restructure + a VS-naming pass mirroring #71
+3. Re-point `docs.yml` at the chosen home; verify the deploy pipeline
+
+---
+
 ## Cycle #242 — 2026-09-28T08:05 IST (GitHub anchor 07:02Z) (eval vs main `1535b2c` [own #241 log]; content-idle ~24d; **21st revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
 
