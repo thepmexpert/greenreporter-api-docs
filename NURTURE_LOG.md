@@ -1,5 +1,22 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #245 — 2026-09-28T20:05 IST (GitHub anchor 19:04Z) (eval vs main `a212d21` [own #244 log]; content-idle ~24d; **24th revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
+
+### State this cycle
+- ⚪ Zero content motion ~24d; upstream gre main static ~58h (#71 MERGEABLE — billing-era red only). Zone still NXDOMAIN — the docs site is dark with it. Clone on main @ `a212d21`, in sync.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Uncommitted restructure parked since Jun 5 (−1,174 lines) — invisible to remote evals
+- 🟡 Content frozen vs the Sep 2026 regulatory wave (Reg (EU) 2026/1560 in force — docs don't reflect it)
+
+### Next Sequential Implementation Target
+1. **Decision: fold into gre main repo at relaunch** (24th ask) — separate-repo overhead buys nothing while the zone is dark
+2. If kept: commit the parked restructure + a Reg (EU) 2026/1560 naming pass mirroring #71
+3. Restore the docs deploy the moment the gre zone returns
+
+---
+
 ## Cycle #244 — 2026-09-28T16:05 IST (GitHub anchor 15:08Z) (eval vs main `6fdb9a8` [own #243 log]; content-idle ~24d; **23rd revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
 
