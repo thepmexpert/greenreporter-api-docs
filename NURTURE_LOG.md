@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #251 — 2026-09-29T20:05 IST (GitHub anchor 19:02Z) (eval vs main `4967b44` [own #250 log]; content-idle ~27d; **30th revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
+
+### State this cycle
+- ⚪ Main `4967b44` = own #250 log push; no content commits ~27d.
+- ⚪ gre zone still NXDOMAIN (day 34) — docs subdomain fate unchanged; renewal window still open (T-10d to 9 Oct event).
+
+### Unmet Compliance/Feature Traps
+- 🔴 docs.greenreporter.eu root 404 + zone dark — public reporting presence blocked upstream.
+- 🟡 Content idle ~27d while the main-app OpenAPI suite keeps advancing (drift risk).
+
+### Next Sequential Implementation Target
+1. Owner decision: revive vs fold into main-app repo (30th ask) — gate on gre zone renewal outcome (T-10d).
+2. If revived: re-render OpenAPI companions against post-#71 main once it merges.
+3. If folded: archive with a pointer from the main repo's docs workflow.
+
 ## Cycle #250 — 2026-09-29T16:05 IST (GitHub anchor 15:02Z) (eval vs main `d9c0c85` [own #249 log]; content-idle ~27d; **29th revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
 
