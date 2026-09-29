@@ -1,0 +1,19 @@
+NURTURE_LOG.md
+  s_99ff1e598de7a1::t_861b0cd3a7f88f 3-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4967b4474489987107c7a34b190d10c7b8965e6e",
+  "prompts": {},
+  "sessions": {
+    "s_99ff1e598de7a1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f128b04caffeAKLRKknODsIjZW",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "David <david4david4david4@gmail.com>"
+    }
+  }
+}
