@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #247 — 2026-09-29T04:05 IST (GitHub anchor 03:01Z) (eval vs main `3f9728e` [own #246 log]; content-idle ~26d; **26th revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
+
+### State this cycle
+- ⚪ Content-idle ~26d; zero open PRs; zero owner motion; clone on main @ `3f9728e`, clean.
+- Tied to gre zone fate: docs subdomain dark with the parent NXDOMAIN (day 33); deploy unverifiable until zone restore.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Entire site unverifiable while the gre zone is dark (day 33).
+- 🟢 No independent market lane — content duplicates the OpenAPI suite in the main app.
+
+### Next Sequential Implementation Target
+1. Fold decision into the gre relaunch plan (renewal → zone restore → docs redeploy check).
+2. On first green docs probe: validate the OpenAPI pair (main + 4 companions) against the live API surface.
+3. If not folded by relaunch +30d: archive with a redirect to in-app docs.
+
 ## Cycle #246 — 2026-09-29T00:05 IST (GitHub anchor 23:05Z) (eval vs main `bf9e416` [own #245 log]; content-idle ~25d; **25th revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — recommendation unchanged: fold into the gre relaunch once the domain recovers)
 
