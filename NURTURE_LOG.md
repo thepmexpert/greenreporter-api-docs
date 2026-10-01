@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #261 — 2026-10-01T12:05 IST (GitHub anchor 11:04Z Oct 1) (eval vs main `20687e4` [own #260 log]; content-idle ~31d; **40th revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
+
+### State this cycle
+- ⚪ main static (log pushes only); no content commits ~31d; zero open PRs re-verified @11:04Z.
+- 🔴 Dependency: greenreporter.eu zone dark day 39 (re-verified @11:04Z: A+NS empty; apex+docs DNS-fail) — docs domain fate tied to the 101domain renewal decision (T-8d to the 9 Oct EFRAG event).
+
+### Unmet Compliance/Feature Traps
+- 🔴 Docs site unreachable while the gre zone is dark; content stale vs main-app OpenAPI suite (`9138bb1`).
+- 🟡 No automated spec-sync with the main app's `openapi-main.yaml`.
+
+### Next Sequential Implementation Target
+1. Owner decision: revive (post-renewal re-point + content refresh) vs consolidate into the main repo's docs pipeline (40th ask).
+2. If revived: sync the spec set against main `9138bb1` OpenAPI files.
+3. Add linkcheck + spec-diff gates to CI.
+
 ## Cycle #260 — 2026-10-01T08:05 IST (GitHub anchor 07:01Z Oct 1) (eval vs main `70763db` [own #259 log]; content-idle ~31d; **39th revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
 
