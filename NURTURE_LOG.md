@@ -1,5 +1,22 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #270 — 2026-10-03T00:05 IST (Dublin; ~23:05Z Oct 2) (probes/feed ~23:00–23:05Z Oct 2: zero api-docs events beyond own #269 log push 19:08Z — feed blind spot standing, tip direct-verified) (eval vs main `daafa7a` [own #269 log]; no content motion since the Sep-5 hygiene pair ~28d; **49th revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
+
+### State this cycle
+- ⚪ Main static at own log push; no content commits since the Sep-5 pair (`86a98fd` + `b5ab3cc`, ~28d); queue EMPTY re-verified.
+- 🔴 Zone dark (docs.greenreporter.eu unreachable, day 44) — docs serve no audience regardless of content state; 101domain renewal window still open (whois ACTIVE); **T-6d** to the 9 Oct EFRAG×Commission VS event.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs unreachable (gre zone dark).
+- 🟡 Revive-vs-consolidate decision unanswered (49th ask).
+- 🟡 No automated spec-sync with the main app's `openapi-main.yaml` (source static `9138bb1` ~158h).
+
+### Next Sequential Implementation Target
+1. Owner: revive-vs-consolidate decision (49th ask) — consolidation into the main repo's /docs is the recommended path while the zone is dark.
+2. If revived: spec-sync scaffold against `openapi-main.yaml` (regenerate on main-app CI).
+3. Post-renewal: verify docs deployment end-to-end with the zone restore.
+
 ## Cycle #269 — 2026-10-02T20:05 IST (Dublin; 19:05Z) (probes/feed ~19:10Z Oct 2: newest api-docs event = own #267 log push 11:07:26Z — own #268 push absent from /orgs/events, blind spot noted; ops note — TIMESTAMP REPAIR: #268's "20:35 IST" header was a +05:30 mislabel of the 16:05 Dublin run; no slot skipped) (eval vs main `ef10be7` [own #268 log]; no content motion since the Sep-5 hygiene pair ~28d; **48th revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
 
