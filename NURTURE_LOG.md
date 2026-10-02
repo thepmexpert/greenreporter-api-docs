@@ -1,5 +1,22 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #265 — 2026-10-02T04:05 IST (GitHub feed ~03:05Z Oct 2: newest api-docs event = own #264 log push 23:18:30Z Oct 1; probes ~04:00 IST) (eval vs main `bbc5128` [own #264 log]; no content motion since the Sep-5 hygiene pair ~27d; **44th revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
+
+### State this cycle
+- ⚪ Main static at own log push; no content commits since the Sep-5 pair (`86a98fd` + `b5ab3cc`, ~27d); queue EMPTY re-verified.
+- 🔴 Zone dark (docs.greenreporter.eu NXDOMAIN, day 42) — docs serve no audience regardless of content state; 101domain renewal window still open (whois ACTIVE); **T-7d** to the 9 Oct EFRAG×Commission VS event.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs unreachable (gre zone dark).
+- 🟡 Revive-vs-consolidate decision unanswered (44th ask).
+- 🟡 No automated spec-sync with the main app's `openapi-main.yaml` (source static `9138bb1` ~138h).
+
+### Next Sequential Implementation Target
+1. Tie fate to zone renewal: if 101domain renewal lands before 9 Oct, re-point docs deploy and verify 200.
+2. Owner decision: consolidate into the main gre repo (retire this one) or revive with a content plan (44th ask).
+3. If revived: regenerate OpenAPI companions against main-app `9138bb1` + post-#72 state; add linkcheck + spec-diff CI gates.
+
 ## Cycle #264 — 2026-10-02T00:05 IST (GitHub feed 23:15Z Oct 1: newest api-docs event = own #263 log push 15:09Z; probes 23:10–00:15 IST) (eval vs main `8acb4a6` [own #263 log]; no content motion since the Sep-5 hygiene pair ~27d; **43rd revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
 
