@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #272 — 2026-10-03T08:05 IST (Dublin; ~07:05Z Oct 3) (probes ~07:00–07:10Z: zero api-docs events; tip direct-verified static) (eval vs main `7f1f87c` [own #271 log]; no content motion since the Sep-5 hygiene pair ~29d; **51st revive-vs-consolidate ask**)
+**Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
+
+### State this cycle
+- ⚪ Main static at own log push; no content commits since the Sep-5 pair (`86a98fd` + `b5ab3cc`, ~29d); queue EMPTY re-verified.
+- 🔴 Zone dark (docs.greenreporter.eu unreachable, day 46) — docs serve no audience regardless of content state; 101domain renewal window still open (whois ACTIVE); **T-6d** to the 9 Oct EFRAG×Commission VS event.
+
+### Unmet Compliance/Feature Traps
+- 🔴 Docs site unreachable (zone dark) — no reader can reach API reference at all.
+- 🟡 51st cycle asking: revive (OpenAPI-sync pass vs app `9138bb1`) or consolidate into the main repo — decision unowned ~29d.
+
+### Next Sequential Implementation Target
+1. Owner: gre zone renewal (docs.dark is downstream of the apex outage — nothing here is independently actionable).
+2. Decision: revive-vs-consolidate the docs repo (29d idle; consolidation removes a standing maintenance lane).
+3. If revived: one OpenAPI-sync pass against main `9138bb1` + redeploy check.
+
 ## Cycle #271 — 2026-10-03T04:05 IST (Dublin; ~03:05Z Oct 3) (probes ~03:00–03:55Z: zero api-docs events; tip direct-verified static) (eval vs main `0ed093d` [own #270 log]; no content motion since the Sep-5 hygiene pair ~28d; **50th revive-vs-consolidate ask**)
 **Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
 
