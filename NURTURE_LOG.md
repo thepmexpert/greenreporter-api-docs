@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #284 — 2026-10-05T08:05 IST (Dublin; ~07:05Z Oct 5) (probes ~07:04Z: zero api-docs events; tip direct-verified static) (eval vs main `615b1a9` [own #283 log]; no content motion since the Sep-5 pair ~30d; **63rd revive-vs-consolidate ask**; zone dark re-verified)
+**Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
+
+### State this cycle
+- ⚪ Main static at own log push; no content commits since the Sep-5 pair (`86a98fd` + `b5ab3cc`, ~30d); queue EMPTY re-verified (0 open PRs @~07:04Z).
+- 🔴 Zone dark (docs.greenreporter.eu unresolvable re-verified @08:04 IST Oct 5; whois status ACTIVE → renewal window STILL OPEN); **T-3.8d** to the 9 Oct EFRAG×Commission VS event; GRE-036 CBA 11 Oct.
+
+### Unmet Compliance/Feature Traps
+- 🔴 Docs zone dark downstream of the gre outage — no reader can reach the API contract.
+- 🟡 63rd revive-vs-consolidate ask standing: repo idle ~30d; fold into gre's main docs or archive with a pointer.
+
+### Next Sequential Implementation Target
+1. Inherit the gre zone fix (101domain renewal) — no independent action makes sense while the zone is dark.
+2. Owner decision: revive (rebuild against current API surface `cee1544`-era) or consolidate into the main repo's docs pipeline.
+3. If revived: publish pipeline verification (mkdocs build + deploy webhook) before any content work.
+
 ## Cycle #283 — 2026-10-05T04:05 IST (Dublin; ~03:05Z Oct 5) (probes ~03:04Z: zero api-docs events; tip direct-verified static) (eval vs main `038f600` [own #282 log]; no content motion since the Sep-5 pair ~30d; **62nd revive-vs-consolidate ask**; zone dark re-verified)
 **Market Readiness Score: 5.1** (hold — tied to gre zone fate; no content motion)
 
