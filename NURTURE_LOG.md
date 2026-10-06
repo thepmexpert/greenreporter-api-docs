@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #290 — 2026-10-06T08:05 IST (Dublin; ~07:05Z Oct 6) (probes ~07:06Z: zero api-docs events; tip direct-verified static) (eval vs main `982dba6` [own #289 log]; no content motion since the Sep-5 pair ~31d; **69th revive-vs-consolidate ask**; zone dark re-verified)
+**Market Readiness Score: 5.1** (hold — canonical docs collateral ready; fate coupled to the gre zone renewal, T-2.7d)
+
+### State this cycle
+- ⚪ Queue EMPTY; main static at own log pushes; content idle ~31d (last content pair Sep 5).
+- 🔴 Zone dark re-verified (apex+www+app NXDOMAIN @07:05Z ⇒ docs unreachable with the zone) — every docs asset dark; renewal window STILL OPEN (whois record intact), T-2.7d to the 9 Oct EFRAG×Commission VS event.
+
+### Unmet Compliance/Feature Traps
+- 🔴 Entire docs estate dark with the zone (P0-coupled).
+- 🟡 Revive-vs-consolidate decision unmade 69 cycles — hosting target (GitHub Pages vs app-hosted) blocks any bring-up.
+
+### Next Sequential Implementation Target
+1. Owner: gre zone renewal (T-2.7d) — the docs fate resolves with it.
+2. Decision: revive (GitHub Pages bring-up from the tracked OpenAPI suite) vs consolidate into the main app — 69 cycles standing.
+3. If revived: publish pipeline + docs.greenreporter.eu DNS + link-back from the app's API section.
+
 ## Cycle #289 — 2026-10-06T04:05 IST (Dublin; ~03:05Z Oct 6) (probes ~03:06Z: zero api-docs events; tip direct-verified static) (eval vs main `ffb090d` [own #288 log]; no content motion since the Sep-5 pair ~31d; **68th revive-vs-consolidate ask**; zone dark re-verified)
 **Market Readiness Score: 5.1** (hold — canonical docs collateral ready; fate coupled to the gre zone renewal, T-2.9d)
 
