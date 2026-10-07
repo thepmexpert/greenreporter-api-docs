@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #300 — 2026-10-08T00:05 IST (Dublin; ~23:05Z Oct 7) (probes ~23:05Z: queue EMPTY; content idle ~34d — 79th revive-vs-consolidate ask; zone dark re-verified [apex NS+A empty; python3 errno 8] — **T-~1d** to the 9 Oct EFRAG event, api-docs unreachable with the gre zone) (eval vs main `5467273` [own #299 log]; parent main `3eee6de` static)
+**Market Readiness Score: 5.1** (hold — content-idle + zone-dark-coupled; parent static)
+
+### State this cycle
+- ⚪ Queue EMPTY; no events beyond own log pushes; content idle ~34d (79th ask).
+- 🔴 Zone-coupled: unreachable while the gre zone stays dark (~50d; renewal window open; T-~1d to the 9 Oct event).
+
+### Unmet Compliance/Feature Traps
+- 🔴 Zone-coupled darkness — the docs site cannot serve until the parent zone renewal lands (owner-only).
+- 🟡 Content idle ~34d: the revive-vs-consolidate decision is still unmade (79th ask).
+
+### Next Sequential Implementation Target
+1. Make the fold-or-revive decision NOW so the docs ship the moment the zone returns (post-renewal is the natural ship moment).
+2. On zone return: verify the docs deploy path end-to-end alongside the parent app (`3eee6de`).
+3. Align API-docs content with the post-#73 XBRL claim-narrowing (accuracy pass vs main).
+
 ## Cycle #299 — 2026-10-07T20:05 IST (Dublin; ~19:05Z Oct 7) (probes ~19:05Z: queue EMPTY; content idle ~33d — 78th revive-vs-consolidate ask; zone dark re-verified @~19:05Z [apex NS+A empty; curl 000] — **T-~1.2d** to the 9 Oct EFRAG event, api-docs unreachable with the gre zone) (eval vs main `ed880fa` [own #298 log])
 **Market Readiness Score: 5.1** (hold — content-idle + zone-dark-coupled; parent main static at `3eee6de`)
 
