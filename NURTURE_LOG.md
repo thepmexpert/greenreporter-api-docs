@@ -1,5 +1,22 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #297 — 2026-10-07T12:05 IST (Dublin; ~11:00Z Oct 7) (probes ~11:00Z: queue EMPTY; content idle ~32d — 76th revive-vs-consolidate ask; zone dark re-verified @~11:00Z [docs.greenreporter.eu resolve errno 8] — **T-1.6d** to the 9 Oct EFRAG event, api-docs unreachable with the gre zone) (eval vs main `ec924cc` [own #296 log])
+**Market Readiness Score: 5.1** (hold — parent repo #73 merged; this repo still content-idle + zone-dark-coupled)
+
+### State this cycle
+- ⚪ No PRs, no commits beyond own log pushes; content idle ~32d+; 76th revive-vs-consolidate ask.
+- 🔴 docs.greenreporter.eu unresolvable with the gre zone (errno 8 re-verified @~11:00Z) — T-1.6d to the 9 Oct EFRAG event.
+- 🟢 Parent motion: gre #73 merged 08:34Z (XBRL claim-narrowing touches the API surface — drift check owed on revival).
+
+### Unmet Compliance/Feature Traps
+- 🔴 Docs site dark (parent-zone-coupled P0).
+- 🟡 Content idle ~32d; OpenAPI drift vs parent main `3eee6de` unchecked since Sep.
+
+### Next Sequential Implementation Target
+1. Owner: zone renewal (shared P0 with gre app) → docs 404→live check at main tip.
+2. Revive-vs-consolidate decision (76th ask) — standing owner call.
+3. If revived: OpenAPI drift pass vs parent main `3eee6de` (#73 XBRL claim-narrowing).
+
 ## Cycle #296 — 2026-10-07T08:05 IST (Dublin; ~07:05Z Oct 7) (probes ~07:05Z: queue EMPTY; content idle ~32d — 75th revive-vs-consolidate ask; zone dark re-verified @~08:02 IST — **T-1.8d** to the 9 Oct EFRAG event, api-docs unreachable with the gre zone) (eval vs main `54045df` [own #295 log])
 **Market Readiness Score: 5.1** (hold — canonical docs collateral ready; fate coupled to the gre zone renewal)
 
