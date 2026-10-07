@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #296 — 2026-10-07T08:05 IST (Dublin; ~07:05Z Oct 7) (probes ~07:05Z: queue EMPTY; content idle ~32d — 75th revive-vs-consolidate ask; zone dark re-verified @~08:02 IST — **T-1.8d** to the 9 Oct EFRAG event, api-docs unreachable with the gre zone) (eval vs main `54045df` [own #295 log])
+**Market Readiness Score: 5.1** (hold — canonical docs collateral ready; fate coupled to the gre zone renewal)
+
+### State this cycle
+- ⚪ Queue EMPTY; main static at own log pushes; content idle ~32d (last content pair Sep 5) — 75th revive-vs-consolidate ask.
+- 🔴 Zone dark ~50d re-verified (NS+A empty; whois ACTIVE) — docs unreachable with the zone; T-1.8d to the 9 Oct EFRAG×Commission VS event.
+
+### Unmet Compliance/Feature Traps
+- 🔴 Entire docs estate dark with the zone (P0-coupled).
+- 🟡 Revive-vs-consolidate decision unmade 75 cycles — hosting target (GitHub Pages vs app-hosted) blocks any bring-up.
+
+### Next Sequential Implementation Target
+1. Zone renewal (gre P0) → docs reachable again.
+2. Post-#73: re-verify the docs deploy pipeline + disposition the uncommitted-restructure tail.
+3. Revive-or-consolidate decision on the 32d content idle.
+
 ## Cycle #295 — 2026-10-07T04:05 IST (Dublin; ~03:05Z Oct 7) (probes ~03:05Z: queue EMPTY; content idle ~32d — 74th revive-vs-consolidate ask; zone dark re-verified @04:04 IST — **T-2.0d** to the 9 Oct EFRAG event, api-docs unreachable with the gre zone) (eval vs main `0f0fe3b` [own #294 log])
 **Market Readiness Score: 5.1** (hold — canonical docs collateral ready; fate coupled to the gre zone renewal)
 
