@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #306 — 2026-10-09T00:05 IST (Dublin; ~23:05Z Oct 8) (probes ~23:05Z: queue EMPTY; content idle ~35d — 85th revive-vs-consolidate ask; zone dark re-verified INSIDE the event window [apex+www+app+docs A empty @1.1.1.1; curl errno 6] — the 9 Oct EFRAG event lands ~00:05 IST with the gre zone dark; api-docs unreachable with it) (eval vs main `b5ec084` [own #305 log, @ tip]; parent main `3eee6de` static ~59h)
+**Market Readiness Score: 5.1** (hold — content-idle + zone-dark-coupled; parent static)
+
+### State this cycle
+- ⚪ Queue EMPTY; no events beyond own log pushes; content idle ~35d (85th ask).
+- 🔴 Zone-coupled: unreachable while the gre zone stays dark (~53d; renewal window still open; the parent crossed the 9 Oct event window dark — the post-event damage note there applies here).
+
+### Unmet Compliance/Feature Traps
+- 🔴 Inherited P0: gre zone renewal (owner-only) — docs.greenreporter.eu serves nothing until it lands.
+- 🟡 85th fold-or-revive decision ask (owner); content aging vs VSME Annex C drift risk.
+
+### Next Sequential Implementation Target
+1. OWNER: gre zone renewal (shared P0) — everything here is blocked behind it.
+2. Fold-or-revive decision (85th ask): if revived, refresh spec content vs adopted Delegated Acts before zone return.
+3. On zone return: verify docs deploy path end-to-end (confirm the 404-era fix holds live).
+
 ## Cycle #305 — 2026-10-08T20:05 IST (Dublin; ~19:05Z Oct 8) (probes ~19:05Z: queue EMPTY; content idle ~35d — 84th revive-vs-consolidate ask; zone dark re-verified [apex+www+app+docs A empty @1.1.1.1; curl errno 6] — **T-~4h** to the 9 Oct EFRAG event, api-docs unreachable with the gre zone) (eval vs main `4159e4a` [own #304 log, @ tip]; parent main `3eee6de` static ~35h)
 **Market Readiness Score: 5.1** (hold — content-idle + zone-dark-coupled; parent static)
 
