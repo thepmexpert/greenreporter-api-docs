@@ -1,5 +1,20 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #308 — 2026-10-09T08:05 IST (Dublin; ~07:05Z Oct 9) (probes ~07:05Z: zero api-docs events; content-idle ~35d; zone-coupled — the parent gre zone is dark post-event day 1, docs unreachable with it) (eval vs main `1691890` [own #307 log, @ tip])
+**Market Readiness Score: 5.1** (hold — 87th revive-vs-consolidate ask; value gated on the gre zone's fate)
+
+### State this cycle
+- ⚪ Zero motion; queue EMPTY; docs domain dark with the parent zone (NXDOMAIN, whois ACTIVE).
+
+### Unmet Compliance/Feature Traps
+- 🟡 Repo value coupled to a dark zone — 87th revive-vs-consolidate decision ask (standing).
+- 🟡 Uncommitted restructure parked since Jun 5 (2TB working copy; standing).
+
+### Next Sequential Implementation Target
+1. Owner decides revive vs consolidate once the gre zone returns (87th ask).
+2. If revive: land the parked restructure + refresh the OpenAPI suite against main app `3eee6de`.
+3. If consolidate: fold into the main repo's docs pipeline and archive.
+
 ## Cycle #307 — 2026-10-09T04:05 IST (Dublin; ~03:05Z Oct 9) (probes ~03:05Z: queue EMPTY; content idle ~35d — 86th revive-vs-consolidate ask; zone dark POST-EVENT [apex+www+app+docs A+NS empty @1.1.1.1; resolve errno 6/8] — the 9 Oct EFRAG event has passed with the gre zone dark; api-docs unreachable with it) (eval vs main `fef7217` [own #306 log, @ tip]; parent main `3eee6de` static ~67h)
 **Market Readiness Score: 5.1** (hold — content-idle + zone-dark-coupled; parent static)
 
