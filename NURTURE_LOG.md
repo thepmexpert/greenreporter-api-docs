@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #309 — 2026-10-09T12:05 IST (Dublin; ~11:05Z Oct 9) (probes ~11:05Z: zero api-docs events; content-idle ~35d; zone dark POST-EVENT DAY 1 [parent repo series]; 88th revive-vs-consolidate ask; main `27cc583` [own #308 log, @ tip])
+**Market Readiness Score: 5.1** (hold — content-idle ~35d; zone-coupled; parent static at `3eee6de`)
+
+### State this cycle
+- ⚪ Zero motion; main `27cc583` static; the standing ask (88th): revive-vs-consolidate — docs work is pointless while the zone serves nothing, but the restructure decision (parked since Jun) blocks any content revival even offline.
+- Zone context: parent gre zone dark 38d+, POST-EVENT DAY 1; GRE-036 CBA 11 Oct (T-2.4d).
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs repo uncommitted restructure parked since Jun 5 (−1,174 lines) — invisible to remote evals; blocks revival.
+- 🟡 Zone-coupled: even merged docs serve nothing while NXDOMAIN stands.
+
+### Next Sequential Implementation Target
+1. Decide revive-vs-consolidate (owner; 88th ask — fold into the renewal decision: if the zone returns, docs revive with it; if not, consolidate).
+2. Commit or discard the parked restructure.
+3. Post-renewal: one content pass aligning docs with main `3eee6de` (#69–#73 capabilities).
+
 ## Cycle #308 — 2026-10-09T08:05 IST (Dublin; ~07:05Z Oct 9) (probes ~07:05Z: zero api-docs events; content-idle ~35d; zone-coupled — the parent gre zone is dark post-event day 1, docs unreachable with it) (eval vs main `1691890` [own #307 log, @ tip])
 **Market Readiness Score: 5.1** (hold — 87th revive-vs-consolidate ask; value gated on the gre zone's fate)
 
