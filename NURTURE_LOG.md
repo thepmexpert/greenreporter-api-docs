@@ -1,3 +1,14 @@
+## Cycle #317 — 2026-10-10T20:05 IST (Dublin; ~19:05Z Oct 10) (probes ~19:05Z: content-idle ~36d — 95th revive-vs-consolidate ask; zone dark with the lost gre domain; queue EMPTY; JEV api-docs 1.08)
+**Market Readiness Score: 5.1** (hold — tied to the gre register-or-release outcome)
+
+### State this cycle
+- ⚪ Zero content motion ~36d; zone dark (greenreporter.eu AVAILABLE @whois.eu).
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs product has no reachable audience while the domain stays lost; consolidate-or-revive decision parked ~36d.
+
+### Next Sequential Implementation Target
+1. Owner register-or-release decision on gre domain → docs fold into that branch (revive under re-registered domain, or consolidate into main-app docs on rebrand).
 ## Cycle #316 — 2026-10-10T16:05 IST (Dublin; ~15:05Z Oct 10) (content-idle ~36d, **94th ask**; main `84899ad` = #315 log push — the only motion on this repo is the nurture log itself; queue EMPTY; JEV rank 5th (1.05))
 **Market Readiness Score: 5.1** (hold — estate parked pending gre's register-or-release decision)
 
