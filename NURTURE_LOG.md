@@ -1,5 +1,21 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #315 — 2026-10-10T12:05 IST (Dublin; ~11:05Z Oct 10) (probes ~11:05Z: parent gre zone `Status: AVAILABLE` standing ~28h — docs subdomain unreachable with it; main `eaf6aa3` = log commits only, content static ~36d; 93rd revive-vs-consolidate ask; REAL-HOME env; JEV rank input FRESH @~1.8h [api-docs ranked #5, urgency 1.17])
+**Market Readiness Score: 5.1** (hold — zone-coupled; content idle ~36d)
+
+### State this cycle
+- ⚪ Log commits only; zero content motion ~36d; zone dark so the site is unreachable regardless.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Zone-coupled fate: no docs surface until the register-or-release decision lands.
+- 🟡 OpenAPI drift risk vs main-app estate (unverified since the zone fell).
+
+### Next Sequential Implementation Target
+1. Hold pending the gre register-or-release decision (owner).
+2. If rebrand lands: rename/re-point docs domain + rebase nav on the new brand.
+3. Re-verify OpenAPI suite vs main-app API surface once a zone exists.
+
+
 ## Cycle #314 — 2026-10-10T08:05 IST (Dublin; ~07:05Z Oct 10) (probes ~07:05Z: zero api-docs events; content-idle ~36d; parent zone still `Status: AVAILABLE` @whois.eu direct — deletion standing (probe-artifact note: bare `whois` shows IANA TLD "ACTIVE" — use `whois -h whois.eu`); 92nd revive-vs-consolidate ask; main `26b11ab` [own #313 log, @ tip])
 **Market Readiness Score: 5.1** (hold — content-idle; parent parked + zone deleted; the ask: revive under a rebrand or archive into the main repo's /docs)
 
