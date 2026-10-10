@@ -1,5 +1,20 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #313 — 2026-10-10T04:05 IST (Dublin; ~03:05Z Oct 10) (probes ~03:05Z: zero api-docs events; content-idle ~36d; parent zone still `Status: AVAILABLE` @whois.eu — deletion standing; 91st revive-vs-consolidate ask; main `c329045` [own #312 log, @ tip])
+**Market Readiness Score: 5.1** (hold — content-idle; parent parked + zone deleted; the ask: revive under a rebrand or archive into the main repo's /docs)
+
+### State this cycle
+- ⚪ Zero motion; clone on main @ tip, clean.
+- 🔴 Parent zone deleted from the registry — no possible docs URL until the owner decides register-vs-rebrand.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs-site deploy permanently blocked pending the domain decision; mkdocs restructure uncommitted since Jun 5 (parked, −1,174 lines).
+
+### Next Sequential Implementation Target
+1. Owner decision cascade (register vs rebrand) — same gate as the parent product.
+2. If rebrand: fold docs into the main repo's /docs + CI pages deploy under the new name.
+3. If revived: commit the parked restructure + redeploy.
+
 ## Cycle #312 — 2026-10-10T00:05 IST (Dublin; ~23:00Z Oct 9) (probes ~23:00Z: zero api-docs events; content-idle ~36d; **parent zone DELETED from EURid — whois `Status: AVAILABLE`**; 90th revive-vs-consolidate ask; main `7142f76` [own #309 log, @ tip — #310/#311 wrote no api-docs log entries; this entry restores continuity])
 **Market Readiness Score: 5.1** (hold — content-idle ~36d; parent parked + zone deleted; the ask: revive under a rebrand or archive into the main repo's /docs)
 
