@@ -1,5 +1,20 @@
 # NURTURE_LOG — greenReporter.eu API Docs
 
+## Cycle #314 — 2026-10-10T08:05 IST (Dublin; ~07:05Z Oct 10) (probes ~07:05Z: zero api-docs events; content-idle ~36d; parent zone still `Status: AVAILABLE` @whois.eu direct — deletion standing (probe-artifact note: bare `whois` shows IANA TLD "ACTIVE" — use `whois -h whois.eu`); 92nd revive-vs-consolidate ask; main `26b11ab` [own #313 log, @ tip])
+**Market Readiness Score: 5.1** (hold — content-idle; parent parked + zone deleted; the ask: revive under a rebrand or archive into the main repo's /docs)
+
+### State this cycle
+- ⚪ Zero motion; content-idle ~36d.
+- 🔴 Parent product zone deleted from EURid — the docs domain question is now subsumed by the gre register-or-release decision.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs restructure uncommitted since Jun 5 (−1,174 lines parked in working tree).
+- 🟡 No deployment target while the zone is deleted.
+
+### Next Sequential Implementation Target
+1. Fold into the gre decision: if rebrand → docs revive under the new name; if release → archive the content into the main repo's /docs and close the repo.
+2. Commit or discard the parked Jun-5 restructure (work preservation).
+
 ## Cycle #313 — 2026-10-10T04:05 IST (Dublin; ~03:05Z Oct 10) (probes ~03:05Z: zero api-docs events; content-idle ~36d; parent zone still `Status: AVAILABLE` @whois.eu — deletion standing; 91st revive-vs-consolidate ask; main `c329045` [own #312 log, @ tip])
 **Market Readiness Score: 5.1** (hold — content-idle; parent parked + zone deleted; the ask: revive under a rebrand or archive into the main repo's /docs)
 
