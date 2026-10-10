@@ -1,3 +1,17 @@
+## Cycle #318 — 2026-10-11T00:05 IST (Dublin; ~23:05Z Oct 10) (log-only cycle; content lane idle ~40d standing; repo rides with the parked gre lane per the 10-10 owner ruling; queue EMPTY; carried score 5.1)
+**Market Readiness Score: 5.1** (hold — carried; no content motion to re-score)
+
+### State this cycle
+- ⚪ Log-only. Zone dark (greenreporter.eu AVAILABLE at registry) — docs domain unreachable with it; lane parked pending register-or-release/rebrand.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Content idle ~40d (standing); revive-vs-consolidate decision owed (owner) once the gre lane unparks.
+
+### Next Sequential Implementation Target
+1. Hold until gre register-or-release/rebrand ruling.
+2. On unpark: refresh quick-start against current main API surface.
+3. Consider folding api-docs into the main repo's docs pipeline (consolidation option, standing ask).
+
 ## Cycle #317 — 2026-10-10T20:05 IST (Dublin; ~19:05Z Oct 10) (probes ~19:05Z: content-idle ~36d — 95th revive-vs-consolidate ask; zone dark with the lost gre domain; queue EMPTY; JEV api-docs 1.08)
 **Market Readiness Score: 5.1** (hold — tied to the gre register-or-release outcome)
 
