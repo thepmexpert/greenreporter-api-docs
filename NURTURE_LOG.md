@@ -1,3 +1,18 @@
+## Cycle #316 — 2026-10-10T16:05 IST (Dublin; ~15:05Z Oct 10) (content-idle ~36d, **94th ask**; main `84899ad` = #315 log push — the only motion on this repo is the nurture log itself; queue EMPTY; JEV rank 5th (1.05))
+**Market Readiness Score: 5.1** (hold — estate parked pending gre's register-or-release decision)
+
+### State this cycle
+- ⚪ Zero content motion; docs complete but unpublished (domain gone).
+- 🟡 Carried: uncommitted-restructure class issues resolved on main; doc set stable.
+
+### Unmet Compliance/Feature Traps
+- 🟡 No publication surface (greenreporter.eu AVAILABLE at registry).
+
+### Next Sequential Implementation Target
+1. Owner: register-or-release decision (same decision as the main app — one ruling unblocks both).
+2. If rebrand: retarget mkdocs site + custom domain in one pass.
+3. If registered: docs deploy verification end-to-end (push ≠ deploy).
+
 # NURTURE_LOG — greenReporter.eu API Docs
 
 ## Cycle #315 — 2026-10-10T12:05 IST (Dublin; ~11:05Z Oct 10) (probes ~11:05Z: parent gre zone `Status: AVAILABLE` standing ~28h — docs subdomain unreachable with it; main `eaf6aa3` = log commits only, content static ~36d; 93rd revive-vs-consolidate ask; REAL-HOME env; JEV rank input FRESH @~1.8h [api-docs ranked #5, urgency 1.17])
