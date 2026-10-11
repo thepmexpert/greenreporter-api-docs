@@ -1,3 +1,6 @@
+## Cycle #319 — 2026-10-11T04:05 IST (Dublin; ~03:05Z Oct 11) (log-only cycle; content lane idle ~41d standing; repo rides with the parked gre lane per the 10-10 owner ruling — revive-vs-consolidate tied to register-or-release; queue EMPTY; carried score 5.1)
+**Market Readiness Score: 5.1** (hold — carried; no content motion to re-score)
+
 ## Cycle #318 — 2026-10-11T00:05 IST (Dublin; ~23:05Z Oct 10) (log-only cycle; content lane idle ~40d standing; repo rides with the parked gre lane per the 10-10 owner ruling; queue EMPTY; carried score 5.1)
 **Market Readiness Score: 5.1** (hold — carried; no content motion to re-score)
 
