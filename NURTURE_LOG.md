@@ -1,3 +1,18 @@
+## Cycle #325 — 2026-10-12T04:05 IST (Dublin; ~03:05Z Oct 12) (probes ~03:05Z: no events; tip = own #324 log; content-idle ~46d) (eval vs master `4255f22`)
+**Market Readiness Score: 5.1** (carried, log-only — parked with gre per 10-06 ruling; 50th revive-vs-consolidate ask)
+
+### State this cycle
+- ⚪ Zero events; content idle ~46d; zone dark with gre (DNS fail standing) so docs unservable regardless.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Content frozen ~46d while gre main advanced (GRE-016 CMO wording + XBRL claim narrowing, #73) — docs drift from app reality.
+- ⚪ Parked: revive-vs-consolidate decision owed (50th ask) when the gre lane unparks.
+
+### Next Sequential Implementation Target
+1. Hold (parked with gre).
+2. On unpark: single sweep PR syncing docs to main `3eee6de` (CMO wording + XBRL claims).
+3. Decide revive vs consolidate before any new content investment.
+
 ## Cycle #324 — 2026-10-12T00:05 IST (Dublin; ~23:06Z Oct 11) (log-only: content-idle ~45d, 49th revive-vs-consolidate ask; parked with gre per 10-06 ruling; zone dark)
 **Market Readiness Score: 5.1** (hold — carried)
 
