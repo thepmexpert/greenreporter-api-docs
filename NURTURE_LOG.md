@@ -1,3 +1,6 @@
+## Cycle #330 — 2026-10-13T00:05 IST (Dublin; ~23:05Z Oct 12) (probes ~23:05Z: content-idle ~50d; queue EMPTY; 55th revive-vs-consolidate ask; parked with gre per standing ruling; JEV api-docs 1.0, rank 6)
+**Market Readiness Score: 5.1** (carried — parked with gre; log-only)
+
 ## Cycle #329 — 2026-10-12T20:05 IST (Dublin; ~19:05Z Oct 12) (probes ~19:05Z: content-idle ~49d; queue EMPTY; 54th revive-vs-consolidate ask; parked with gre per standing ruling; JEV api-docs 1.03, rank 6)
 **Market Readiness Score: 5.1** (carried — parked with gre; log-only)
 
