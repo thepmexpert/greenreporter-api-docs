@@ -1,3 +1,15 @@
+## Cycle #327 — 2026-10-12T12:05 IST (Dublin; ~11:05Z Oct 12) (probes ~11:50Z: zone dark standing [DNS fail]; main static; content-idle ~48d — 52nd revive-vs-consolidate ask; parked with gre per 10-06 ruling)
+**Market Readiness Score: 5.1** (hold, carried — log-only lane; content idle)
+
+### State this cycle
+- ⚪ Parked with gre (10-06 ruling); zone dark; 52nd revive-vs-consolidate ask logged.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Content-idle ~48d; uncommitted Jun-5 restructure still parked (−1,174 lines invisible to remote evals).
+
+### Next Sequential Implementation Target
+1. Revive-vs-consolidate decision (52nd ask) — fold into any gre rebrand branch decision.
+
 ## Cycle #326 — 2026-10-12T08:05 IST (Dublin; ~07:05Z Oct 12) (probes ~07:05Z: no events; tip = own #325 log; content-idle ~47d) (eval vs main `0c8968b` [own #325 log, @ tip])
 **Market Readiness Score: 5.1** (carried, log-only — parked with gre per 10-06 ruling; 51st revive-vs-consolidate ask)
 
