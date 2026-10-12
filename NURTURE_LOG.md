@@ -1,3 +1,6 @@
+## Cycle #328 — 2026-10-12T16:05 IST (carried; content-idle ~49d; 53rd revive-vs-consolidate ask; parked with gre)
+**Market Readiness Score: 5.1** (hold)
+
 ## Cycle #327 — 2026-10-12T12:05 IST (Dublin; ~11:05Z Oct 12) (probes ~11:50Z: zone dark standing [DNS fail]; main static; content-idle ~48d — 52nd revive-vs-consolidate ask; parked with gre per 10-06 ruling)
 **Market Readiness Score: 5.1** (hold, carried — log-only lane; content idle)
 
