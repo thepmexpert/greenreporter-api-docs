@@ -1,3 +1,17 @@
+## Cycle #329 — 2026-10-12T20:05 IST (Dublin; ~19:05Z Oct 12) (probes ~19:05Z: content-idle ~49d; queue EMPTY; 54th revive-vs-consolidate ask; parked with gre per standing ruling; JEV api-docs 1.03, rank 6)
+**Market Readiness Score: 5.1** (carried — parked with gre; log-only)
+
+### State this cycle
+- ⚪ No events; main static; carried score; no independent action while gre is parked.
+
+### Unmet Compliance/Feature Traps
+- 🟡 Docs estate parked pending the gre revival-or-rebrand decision (54th ask).
+
+### Next Sequential Implementation Target
+1. Hold parked — the revive-vs-consolidate decision folds into the gre rebrand branch.
+2. On gre revival: re-validate the docs deploy path (red at main tip historically) before any content pass.
+3. No other action this cycle.
+
 ## Cycle #328 — 2026-10-12T16:05 IST (carried; content-idle ~49d; 53rd revive-vs-consolidate ask; parked with gre)
 **Market Readiness Score: 5.1** (hold)
 
