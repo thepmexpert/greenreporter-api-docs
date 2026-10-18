@@ -1,3 +1,12 @@
+## Cycle #366 — 2026-10-19T00:05 IST (Dublin) (carried — parked with gre; content-idle; 52nd revive-vs-consolidate ask; 19:10Z pushed_at = own log push)
+**Market Readiness Score: 5.1** (hold, carried)
+
+### State this cycle
+- Parked with gre (zone dark). 52nd revive-vs-consolidate ask: fold into gre relaunch docs or archive.
+
+### Next Sequential Implementation Target
+1. Owner decision at gre unpark: fold into product docs or archive.
+
 ## Cycle #365 — 2026-10-18T20:05 IST (Dublin) (parked with gre; carried; content-idle ~133d; 51st revive-vs-consolidate ask)
 
 **Market Readiness Score: 5.1** (hold — unchanged; strategic fold-in decision pending gre's revival/rebrand call)
