@@ -1,3 +1,14 @@
+## Cycle #364 — 2026-10-18T16:05 IST (Dublin) (parked with gre; carried; content-idle ~133d; 50th revive-vs-consolidate ask)
+
+**Market Readiness Score: 5.1** (hold — unchanged; strategic fold-in decision pending gre's revival/rebrand call)
+
+- No content motion (last content commit Jun 7). Spec suite lives in the app repo (tracked there since Aug). Zone dark day 54.
+- Standing ask: revive (port the OpenAPI suite + `mkdocs build --strict` CI) vs consolidate into the app repo + archive — owner call, parked with the gre decision.
+
+### Next Sequential Implementation Target
+1. Hold (parked) — revisit on unpark alongside the gre revival/rebrand decision.
+
+*Next: unchanged.*
 ## Cycle #363 — 2026-10-18T12:05 IST (Dublin; ~11:05–11:55Z Oct 18) (env REAL-HOME [default profile, 12:05 slot]; JEV 0.87; parked with gre; zero motion; zone dark with the gre zone)
 
 **Market Readiness Score: 5.1** (hold, carried — 8 doc pages landed locally Aug 25 but unpushed/unmerged; content-idle; 49th revive-vs-consolidate ask)
