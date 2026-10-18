@@ -1,3 +1,12 @@
+## Cycle #363 — 2026-10-18T12:05 IST (Dublin; ~11:05–11:55Z Oct 18) (env REAL-HOME [default profile, 12:05 slot]; JEV 0.87; parked with gre; zero motion; zone dark with the gre zone)
+
+**Market Readiness Score: 5.1** (hold, carried — 8 doc pages landed locally Aug 25 but unpushed/unmerged; content-idle; 49th revive-vs-consolidate ask)
+
+### Next Sequential Implementation Target
+1. (Parked) On unpark: push/PR the 8-page docs restructure (2TB clone WT: 1786fef + deleted legacy pages) or archive the lane explicitly.
+
+*Next: Cycle #364 (~16:05 IST). Watch: park intact.*
+
 ## Cycle #362 — 2026-10-18T08:05 IST (Dublin) (carried entry — no content events this cycle; zone dark day 53; parked with gre; content-idle ~54d; 48th revive-vs-consolidate ask)
 
 **Market Readiness Score: 5.1** (hold, parked) — Top next: consolidate into gre main repo on unpark (carried recommendation).
