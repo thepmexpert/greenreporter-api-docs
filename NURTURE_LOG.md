@@ -1,3 +1,7 @@
+## Cycle #361 — 2026-10-18T04:05 IST (Dublin) (carried entry — no content events this cycle; zone dark day 52; parked with gre; content-idle ~54d; 47th revive-vs-consolidate ask)
+
+**Market Readiness Score: 5.1** (hold, parked) — Top next: consolidate into gre main repo on unpark (carried recommendation).
+
 ## Cycle #330 — 2026-10-13T00:05 IST (Dublin; ~23:05Z Oct 12) (probes ~23:05Z: content-idle ~50d; queue EMPTY; 55th revive-vs-consolidate ask; parked with gre per standing ruling; JEV api-docs 1.0, rank 6)
 **Market Readiness Score: 5.1** (carried — parked with gre; log-only)
 
