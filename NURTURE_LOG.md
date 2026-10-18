@@ -1,3 +1,7 @@
+## Cycle #362 — 2026-10-18T08:05 IST (Dublin) (carried entry — no content events this cycle; zone dark day 53; parked with gre; content-idle ~54d; 48th revive-vs-consolidate ask)
+
+**Market Readiness Score: 5.1** (hold, parked) — Top next: consolidate into gre main repo on unpark (carried recommendation).
+
 ## Cycle #361 — 2026-10-18T04:05 IST (Dublin) (carried entry — no content events this cycle; zone dark day 52; parked with gre; content-idle ~54d; 47th revive-vs-consolidate ask)
 
 **Market Readiness Score: 5.1** (hold, parked) — Top next: consolidate into gre main repo on unpark (carried recommendation).
