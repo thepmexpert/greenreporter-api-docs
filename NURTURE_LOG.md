@@ -1,3 +1,9 @@
+## Cycle #371 — 2026-10-19T20:05 IST (Dublin) (parked with gre — zone dark day 60, upstream app undeployed; content-idle ~39d; JEV 1.05; 57th revive-vs-consolidate ask)
+
+**Market Readiness Score: 5.1** (hold, parked)
+
+Top next: consolidate into gre monorepo docs/ at next gre unfreeze, or revive with the app deploy.
+
 ## Cycle #370 — 2026-10-19T16:05 IST (Dublin) (parked with gre — zone dark, upstream app undeployed; content-idle; JEV 1.01; 56th revive-vs-consolidate ask)
 **Market Readiness Score: 5.1** (hold, parked)
 
