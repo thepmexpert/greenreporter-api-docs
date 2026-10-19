@@ -1,3 +1,9 @@
+## Cycle #367 — 2026-10-19T04:05 IST (Dublin) (carried — parked with gre; content-idle; 53rd revive-vs-consolidate ask; pushed_at 23:05Z Oct 18 = own log push)
+**Market Readiness Score: 5.1** (hold — content-idle; parent parked + zone deleted; the ask: revive under a rebrand or archive into the main repo's /docs)
+
+### State this cycle
+- No content motion; main tip = own cycle log. Zone dark with parent (day 57).
+
 ## Cycle #366 — 2026-10-19T00:05 IST (Dublin) (carried — parked with gre; content-idle; 52nd revive-vs-consolidate ask; 19:10Z pushed_at = own log push)
 **Market Readiness Score: 5.1** (hold, carried)
 
