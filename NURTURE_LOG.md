@@ -1,3 +1,10 @@
+## Cycle #372 — 2026-10-20T00:05 IST (Dublin; probes ~00:03 IST) (parked with gre — zero api-docs events; content-idle ~37d; parent zone deleted from registry [whois AVAILABLE]; 58th revive-vs-consolidate ask; main tip = own log commits only)
+**Market Readiness Score: 5.1** (hold — content-idle; parent parked + zone deleted; the ask: revive under a rebrand or archive into the main repo's /docs)
+- ⚪ Zero motion; queue EMPTY.
+- 🔴 No possible docs URL until the owner decides register-vs-rebrand.
+- 🟡 mkdocs restructure uncommitted since Jun 5 (parked, −1,174 lines).
+- Next sequential targets: (1) fold the revive-vs-consolidate ask into the gre rebrand ruling (one decision, two repos); (2) if consolidating — port surviving pages into main repo /docs; (3) drop or commit the June restructure stash under the same ruling.
+
 ## Cycle #371 — 2026-10-19T20:05 IST (Dublin) (parked with gre — zone dark day 60, upstream app undeployed; content-idle ~39d; JEV 1.05; 57th revive-vs-consolidate ask)
 
 **Market Readiness Score: 5.1** (hold, parked)
