@@ -1,3 +1,8 @@
+## Cycle #373 — 2026-10-20T04:05 IST (Dublin) (carried — parked with gre; origin/main `04a890a` static; 59th revive-vs-consolidate ask; decision folds into the gre rebrand/revive ruling — one decision, two repos)
+**Market Readiness Score: 5.1** (hold, parked)
+- Unchanged: OpenAPI spec source-of-truth now lives upstream in the app repo; this repo's role must be ruled on before any docs spend.
+- Next: fold into the gre rebrand/revive owner ruling.
+
 ## Cycle #372 — 2026-10-20T00:05 IST (Dublin; probes ~00:03 IST) (parked with gre — zero api-docs events; content-idle ~37d; parent zone deleted from registry [whois AVAILABLE]; 58th revive-vs-consolidate ask; main tip = own log commits only)
 **Market Readiness Score: 5.1** (hold — content-idle; parent parked + zone deleted; the ask: revive under a rebrand or archive into the main repo's /docs)
 - ⚪ Zero motion; queue EMPTY.
