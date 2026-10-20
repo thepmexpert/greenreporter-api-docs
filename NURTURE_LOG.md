@@ -1,3 +1,8 @@
+## Cycle #375 — 2026-10-20T12:05 IST (Dublin) (env REAL-HOME [default profile, 12:05 slot]; parked with gre; main static at #374 log tip; zero queue motion; 61st revive-vs-consolidate ask)
+
+**Market Readiness Score: 5.1** (hold, carried — decision folded into the gre renewal/rebrand ruling)
+
+- Next sequential targets: (1) gre ruling first — this repo's fate follows it; (2) if consolidate: fold live API docs into the main repo docs/ and archive this repo; (3) if revive: fix the Deploy Documentation CI red + fresh OpenAPI publish.
 ## Cycle #374 — 2026-10-20T08:05 IST (Dublin) (parked with gre — zone dark day 63; origin/main `c49a5f3` = #373 log tip, zero content motion; 2TB clone untouched this cycle [uncommitted Jun-5 restructure −1,174 lines standing, tracked as gre gap since #81]; 60th revive-vs-consolidate ask)
 
 **Market Readiness Score: 5.1** (hold, parked)
