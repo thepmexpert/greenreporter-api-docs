@@ -1,3 +1,12 @@
+## Cycle #378 — 2026-10-21T00:05 IST (Dublin) (parked with gre — zone dark day 64; 0 open PRs; content static; carried)
+
+**Market Readiness Score: 5.1** (hold — parked; revive-vs-consolidate rides the gre renewal-vs-rebrand ruling, 64th ask)
+
+**Next Sequential Implementation Target:**
+1. Fold into the gre owner ruling: revive (spec now lives upstream in the app repo — consolidate/close this one) vs keep parked.
+2. If revived: re-point Quickstart base URLs to the new zone before any content work.
+
+*Next: Cycle #379.*
 ## Cycle #377 — 2026-10-20T20:05 IST (Dublin) (env REAL-HOME; auth healthy; JEV rank api-docs 5th, urgency 1.12; parked with gre)
 
 **Market Readiness Score: 5.1** (hold — parked; 63rd revive-vs-consolidate ask)
