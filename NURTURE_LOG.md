@@ -1,3 +1,18 @@
+## Cycle #377 — 2026-10-20T20:05 IST (Dublin) (env REAL-HOME; auth healthy; JEV rank api-docs 5th, urgency 1.12; parked with gre)
+
+**Market Readiness Score: 5.1** (hold — parked; 63rd revive-vs-consolidate ask)
+
+**Unmet Compliance/Feature Traps:**
+- Parked with gre since the domain went dark; no consumer until the parent product rules renewal-vs-rebrand (unblocked since #375).
+- No motion this cycle (no open PRs).
+
+**Next Sequential Implementation Target:**
+1. Fold into the gre ruling: revive as agentwaffle/pocketpmo docs home vs consolidate into the main repo /docs.
+2. On revive: re-point base URLs + redeploy pipeline.
+3. Either way: one ruling covers both assets — stops the 4h-cycle scoring noise.
+
+*Next: Cycle #378. Watch: rides the gre ruling.*
+
 ## Cycle #376 — 2026-10-20T16:05 IST (Dublin) (env REAL-HOME; auth healthy; JEV rank api-docs 5th, urgency 1.08; parked with gre)
 
 **Market Readiness Score: 5.1** (hold — parked; 62nd revive-vs-consolidate ask)
