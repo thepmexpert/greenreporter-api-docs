@@ -1,3 +1,8 @@
+## Cycle #374 — 2026-10-20T08:05 IST (Dublin) (parked with gre — zone dark day 63; origin/main `c49a5f3` = #373 log tip, zero content motion; 2TB clone untouched this cycle [uncommitted Jun-5 restructure −1,174 lines standing, tracked as gre gap since #81]; 60th revive-vs-consolidate ask)
+
+**Market Readiness Score: 5.1** (hold, parked)
+
+- Docs have no live product to document while the zone is dark; consolidate-into-monorepo remains the cheaper path at revival time.
 ## Cycle #373 — 2026-10-20T04:05 IST (Dublin) (carried — parked with gre; origin/main `04a890a` static; 59th revive-vs-consolidate ask; decision folds into the gre rebrand/revive ruling — one decision, two repos)
 **Market Readiness Score: 5.1** (hold, parked)
 - Unchanged: OpenAPI spec source-of-truth now lives upstream in the app repo; this repo's role must be ruled on before any docs spend.
