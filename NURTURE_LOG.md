@@ -1,3 +1,14 @@
+## Cycle #383 — 2026-10-21T20:05 IST (Dublin; ~19:05Z) (env REAL-HOME; parked with gre)
+
+**Market Readiness Score: 5.1** (hold — parked; 69th revive-vs-consolidate ask)
+
+**Unmet Compliance/Feature Traps:**
+- Idle; OpenAPI spec lives upstream in the app repo; the revive-vs-consolidate decision is now ~69 cycles old.
+
+**Next Sequential Implementation Target:**
+1. Fold the revive-vs-consolidate decision into the gre renewal-vs-rebrand ruling (GRE-032 window opens Fri 23 Oct).
+2. If consolidated: archive with a pointer to the app-repo spec.
+
 ## Cycle #382 — 2026-10-21T16:05 IST (Dublin; ~15:05Z) (env REAL-HOME; parked with gre)
 
 **Market Readiness Score: 5.1** (hold — parked; 68th revive-vs-consolidate ask)
