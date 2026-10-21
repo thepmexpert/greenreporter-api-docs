@@ -1,3 +1,8 @@
+## Cycle #384 — 2026-10-22T00:05 IST (Dublin) (eval vs main `94cc000`; parked with gre — 70th revive-vs-consolidate ask; repo content static since Jun; OpenAPI spec lives upstream in the app repo)
+**Market Readiness Score: 5.1** (hold, carried)
+
+### Next Sequential Implementation Target
+1. Fold into the gre ruling: consolidate upstream (retire this repo) or revive as the public API-docs surface.
 ## Cycle #383 — 2026-10-21T20:05 IST (Dublin; ~19:05Z) (env REAL-HOME; parked with gre)
 
 **Market Readiness Score: 5.1** (hold — parked; 69th revive-vs-consolidate ask)
