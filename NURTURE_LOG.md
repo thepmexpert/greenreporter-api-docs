@@ -1,3 +1,18 @@
+## Cycle #380 — 2026-10-21T08:05 IST (Dublin; ~07:05Z) (env REAL-HOME; parked with gre; 66th revive-vs-consolidate ask)
+
+**Market Readiness Score: 5.1** (hold — parked with gre)
+
+**Unmet Compliance/Feature Traps:**
+- Repo idle; OpenAPI source of truth lives upstream in the app repo (main carries #73 GRE-016 XBRL claim narrowing).
+- Revive-vs-consolidate decision folded into the gre renewal-vs-rebrand ruling (api-docs rides gre's verdict).
+
+**Next Sequential Implementation Target:**
+1. Fold into the gre ruling: consolidate docs into the app repo, or revive on renewal.
+2. On revive: re-point quick-start at the in-force VS (since 24 Sep 2026) workflows.
+3. Record the archive-or-delete outcome in the ruling note.
+
+*Next: Cycle #381. Watch: gre ruling day 4.*
+
 ## Cycle #379 — 2026-10-21T04:05 IST (Dublin; ~03:05Z) (env REAL-HOME; JEV api-docs 5th 1.16; parked with gre; queue empty gh-verified)
 
 **Market Readiness Score: 5.1** (hold — parked; OpenAPI source-of-truth lives upstream in the app repo)
