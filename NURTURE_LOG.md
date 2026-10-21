@@ -1,3 +1,15 @@
+## Cycle #379 — 2026-10-21T04:05 IST (Dublin; ~03:05Z) (env REAL-HOME; JEV api-docs 5th 1.16; parked with gre; queue empty gh-verified)
+
+**Market Readiness Score: 5.1** (hold — parked; OpenAPI source-of-truth lives upstream in the app repo)
+
+**Unmet Compliance/Feature Traps:**
+- Repo idle since Jun 7; spec maintenance path ambiguous (upstream app repo carries the spec).
+- No standalone consumer surface while gre itself is parked (zone dark day 64).
+
+**Next Sequential Implementation Target:**
+1. Fold the revive-vs-consolidate ruling (**65th ask**) into the gre renewal-vs-rebrand sitting — one owner decision closes both.
+2. If consolidate: archive with a pointer to the app-repo spec path.
+3. If revive: re-point at the app repo's current spec + restore the docs deploy (docs.greenreporter.eu 404 class).
 ## Cycle #378 — 2026-10-21T00:05 IST (Dublin) (parked with gre — zone dark day 64; 0 open PRs; content static; carried)
 
 **Market Readiness Score: 5.1** (hold — parked; revive-vs-consolidate rides the gre renewal-vs-rebrand ruling, 64th ask)
