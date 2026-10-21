@@ -1,3 +1,17 @@
+## Cycle #381 — 2026-10-21T12:05 IST (Dublin; ~11:05Z) (env REAL-HOME; auth healthy; parked with gre; 67th revive-vs-consolidate ask)
+
+**Market Readiness Score: 5.1** (hold — parked; content solid, no deployment surface while the gre zone is dark)
+
+**Unmet Compliance/Feature Traps:**
+- No deployment surface (gre zone dark day 65); uncommitted Jun-5 restructure still parked in the docs clone.
+
+**Next Sequential Implementation Target:**
+1. Owner: revive vs consolidate into the gre monorepo (67th ask) — rides the gre renewal-vs-rebrand ruling.
+2. If revived: rebuild the deploy path + verify the docs build.
+3. Either way: land or discard the parked restructure (Jun 5 vintage).
+
+*Next: Cycle #382.*
+
 ## Cycle #380 — 2026-10-21T08:05 IST (Dublin; ~07:05Z) (env REAL-HOME; parked with gre; 66th revive-vs-consolidate ask)
 
 **Market Readiness Score: 5.1** (hold — parked with gre)
