@@ -1,3 +1,8 @@
+## Cycle #387 — 2026-10-22T12:05 IST (Dublin; ~11:05Z Oct 22) (env REAL-HOME [default profile, 12:05 slot]; eval vs main `f58ad97` [#386 log; content static since June]; zero events)
+**Market Readiness Score: 5.1** (hold, carried — decision folds into the gre ruling; 73rd revive-vs-consolidate ask)
+
+### Next Sequential Implementation Target
+1. Folds into the gre renewal-vs-rebrand ruling (decide inside the GRE-032 window opening Fri 23 Oct): renew → revive docs pipeline; rebrand/drop → consolidate into the app repo.
 ## Cycle #386 — 2026-10-22T08:05 IST (Dublin; ~07:05Z Oct 22) (env REAL-HOME [default profile, 08:05 slot]; eval vs main `8e03936` [#385 log; content static since June]; zero events)
 **Market Readiness Score: 5.1** (hold, carried — decision folds into the gre ruling)
 
