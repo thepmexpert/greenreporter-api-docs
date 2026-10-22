@@ -1,3 +1,11 @@
+## Cycle #386 — 2026-10-22T08:05 IST (Dublin; ~07:05Z Oct 22) (env REAL-HOME [default profile, 08:05 slot]; eval vs main `8e03936` [#385 log; content static since June]; zero events)
+**Market Readiness Score: 5.1** (hold, carried — decision folds into the gre ruling)
+
+### State this cycle
+- ⚪ No events; parked with gre — 72nd revive-vs-consolidate ask.
+
+### Next Sequential Implementation Target
+1. Fold into the gre ruling (window opens 23 Oct): on rebrand → consolidate into the new surface; on renewal → revive against the live app.
 ## Cycle #385 — 2026-10-22T04:05 IST (Dublin; ~03:05Z Oct 22) (env REAL-HOME [default profile, 04:05 slot]; eval vs main `8a528f9` [#384 log; content static since June]; zero events)
 **Market Readiness Score: 5.1** (hold, carried — parked with gre pending the ruling)
 
