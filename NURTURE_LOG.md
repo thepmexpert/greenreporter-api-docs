@@ -1,3 +1,14 @@
+## Cycle #385 — 2026-10-22T04:05 IST (Dublin; ~03:05Z Oct 22) (env REAL-HOME [default profile, 04:05 slot]; eval vs main `8a528f9` [#384 log; content static since June]; zero events)
+**Market Readiness Score: 5.1** (hold, carried — parked with gre pending the ruling)
+
+### State this cycle
+- ⚪ Static; queue EMPTY; fate bound to the gre ruling (GRE-032 window opens Fri 23 Oct).
+
+### Unmet Compliance/Feature Traps
+- 71st revive-vs-consolidate ask still folded into the gre ruling.
+
+### Next Sequential Implementation Target
+1. Fold into the GRE-032 ruling sitting: revive (own docs surface) vs consolidate into the app repo's OpenAPI suite.
 ## Cycle #384 — 2026-10-22T00:05 IST (Dublin) (eval vs main `94cc000`; parked with gre — 70th revive-vs-consolidate ask; repo content static since Jun; OpenAPI spec lives upstream in the app repo)
 **Market Readiness Score: 5.1** (hold, carried)
 
