@@ -1,3 +1,21 @@
+## Cycle #388 — 2026-10-22T16:05 IST (Dublin; probes ~15:05–16:10Z Oct 22) (env REAL-HOME [default profile, 16:05 slot]; auth healthy; JEV rank: api-docs 1.33 (5th); parked with gre — 74th revive-vs-consolidate ask standing)
+
+**Market Readiness Score: 5.1** (hold, parked — static since Jun 7 on content; decision gated on the gre domain ruling)
+
+### State this cycle
+- No motion: main tip `f9d72dd` (nurture log only); repo otherwise static since Jun.
+- Parked with gre: the 74th revive-vs-consolidate ask folds into the GRE-032 ruling window (opens Fri 23 Oct).
+
+### Unmet Compliance/Feature Traps
+- OpenAPI suite now lives upstream in the app repo — this repo's reason-to-exist is the pending decision.
+- Docs restructure (Jun 5) still parked uncommitted in the local clone.
+
+### Next Sequential Implementation Target
+1. Fold into the GRE-032 ruling: one owner decision resolves domain + docs home (consolidate into the app repo vs revive docs.greenreporter.eu).
+2. If consolidate: archive this repo with a pointer README; if revive: land the restructure + redeploy Pages once a domain exists.
+
+*Next: Cycle #389 (~2026-10-22 20:05 IST). Watch: GRE-032 ruling; nothing repo-local.*
+
 ## Cycle #387 — 2026-10-22T12:05 IST (Dublin; ~11:05Z Oct 22) (env REAL-HOME [default profile, 12:05 slot]; eval vs main `f58ad97` [#386 log; content static since June]; zero events)
 **Market Readiness Score: 5.1** (hold, carried — decision folds into the gre ruling; 73rd revive-vs-consolidate ask)
 
